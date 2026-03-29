@@ -1,0 +1,1072 @@
+{
+  "products":
+  [
+  {
+    "p_name": "TAŞLI BEYAZ PROMOSYON",
+    "p_brand": "MRY",
+    "p_cat": "PROMOSYON",
+    "p_img": "img/1.webp",
+    "p_desc": "M 2020 TAŞLI BEYAZ PROMOSYON"
+  },
+  {
+    "p_name": "TAŞLI ŞEFFAF",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/2.webp",
+    "p_desc": "803 TAŞLI ŞEFFAF"
+  },
+  {
+    "p_name": "MANYETOLU ŞEFFAF",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/3.webp",
+    "p_desc": "808 MANYETOLU ŞEFFAF"
+  },
+  {
+    "p_name": "SLİM YUVARLAK TAŞLI",
+    "p_brand": "KASAİ",
+    "p_cat": "PLASTİK",
+    "p_img": "img/4.webp",
+    "p_desc": "KASAİ SLİM YUVARLAK TAŞLI"
+  },
+  {
+    "p_name": "UZUN MANYETOLU ŞEFFAF",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/5.webp",
+    "p_desc": "M 2023 UZUN MANYETOLU ŞEFFAF"
+  },
+  {
+    "p_name": "UZUN TAŞLI ŞEFFAF",
+    "p_brand": "FER",
+    "p_cat": "PLASTİK",
+    "p_img": "img/6.webp",
+    "p_desc": "FER-L UZUN TAŞLI ŞEFFAF"
+  },
+  {
+    "p_name": "UZUN TAŞLI PASTEL",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/7.webp",
+    "p_desc": "M 2025 UZUN TAŞLI PASTEL"
+  },
+  {
+    "p_name": "UZUN TAŞLI ŞEFFAF",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/8.webp",
+    "p_desc": "M 2025 UZUN TAŞLI ŞEFFAF"
+  },
+  {
+    "p_name": "JET FB LİSANSLI TARAFTAR",
+    "p_brand": "İ-LİGHTER",
+    "p_cat": "PLASTİK",
+    "p_img": "img/9.webp",
+    "p_desc": "Y-434 JET FB LİSANSLI TARAFTAR"
+  },
+  {
+    "p_name": "JET GS LİSANSLI TARAFTAR",
+    "p_brand": "İ-LİGHTER",
+    "p_cat": "PLASTİK",
+    "p_img": "img/10.webp",
+    "p_desc": "Y-434 JET GS LİSANSLI TARAFTAR"
+  },
+  {
+    "p_name": "JET BJK LİSANSLI TARAFTAR",
+    "p_brand": "İ-LİGHTER",
+    "p_cat": "PLASTİK",
+    "p_img": "img/11.webp",
+    "p_desc": "Y-434 JET BJK LİSANSLI TARAFTAR"
+  },
+  {
+    "p_name": "RÜZGAR SARGILI SÜPER KAHRAMAN",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/12.webp",
+    "p_desc": "M 2020 RÜZGAR SARGILI SÜPER KAHRAMAN"
+  },
+  {
+    "p_name": "RÜZGAR SARGILI ARABA",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/13.webp",
+    "p_desc": "M 2020 RÜZGAR SARGILI ARABA"
+  },
+  {
+    "p_name": "RÜZGAR SARGILI KÖPEK",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/14.webp",
+    "p_desc": "M 2020 RÜZGAR SARGILI KÖPEK"
+    
+    
+  },
+  {
+    "p_name": "RÜZGAR SARGILI KEDİ",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/15.webp",
+    "p_desc": "M 2020 RÜZGAR SARGILI KEDİ"
+  },
+  {
+    "p_name": "RÜZGAR SARGILI KARTALLI",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/16.webp",
+    "p_desc": "M 2020 RÜZGAR SARGILI KARTALLI",
+    "p_pop": true
+  },
+  {
+    "p_name": "RÜZGAR SARGILI ARABA",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/17.webp",
+    "p_desc": "M 2020 RÜZGAR SARGILI ARABA"
+  },
+  {
+    "p_name": "RÜZGAR SARGILI KORSAN",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/18.webp",
+    "p_desc": "M 2020 RÜZGAR SARGILI KORSAN",
+    "p_pop": true
+  },
+  {
+    "p_name": "RÜZGAR SARGILI BAYRAK",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/19.webp",
+    "p_desc": "M 2020 RÜZGAR SARGILI BAYRAK"
+  },
+  {
+    "p_name": "RÜZGAR SARGILI ARABA MARKALI",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/20.webp",
+    "p_desc": "805 RÜZGAR SARGILI ARABA MARKALI"
+  },
+  {
+    "p_name": "RÜZGAR SARGILI TAXİ",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/21.webp",
+    "p_desc": "805 RÜZGAR SARGILI TAXİ"
+  },
+  {
+    "p_name": "RÜZGAR SARGILI BALON",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/22.webp",
+    "p_desc": "805 RÜZGAR SARGILI BALON"
+  },
+  {
+    "p_name": "RÜZGAR SARGILI OSMANLI",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/23.webp",
+    "p_desc": "805 RÜZGAR SARGILI OSMANLI"
+  },
+  {
+    "p_name": "RÜZGAR SARGILI ARABALI",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/24.webp",
+    "p_desc": "805 RÜZGAR SARGILI ARABALI"
+  },
+  {
+    "p_name": "RÜZGAR SARGILI PASTEL",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/25.webp",
+    "p_desc": "805 RÜZGAR SARGILI PASTEL"
+  },
+  {
+    "p_name": "MİCRO YUVARLAK STANDLI",
+    "p_brand": "CLİPPER",
+    "p_cat": "PLASTİK",
+    "p_img": "img/26.webp",
+    "p_desc": "MİCRO MİCRO YUVARLAK STANDLI"
+  },
+  {
+    "p_name": "SİYAH ZİPPO ÇAKMAK",
+    "p_brand": "ZİPPO",
+    "p_cat": "METAL",
+    "p_img": "img/27.webp",
+    "p_desc": "METAL SİYAH ZİPPO ÇAKMAK"
+  },
+  {
+    "p_name": "BÜYÜK BOY KAMP GAZI",
+    "p_brand": "CAMPIN",
+    "p_cat": "DİGER",
+    "p_img": "img/28.webp",
+    "p_desc": "GAZ BÜYÜK BOY KAMP GAZI"
+  },
+  {
+    "p_name": "POCKET YUVARLAK STANDLI",
+    "p_brand": "CLİPPER",
+    "p_cat": "PLASTİK",
+    "p_img": "img/29.webp",
+    "p_desc": "POCKET POCKET YUVARLAK STANDLI"
+  },
+  {
+    "p_name": "MİCRO YUVARLAK",
+    "p_brand": "CLİPPER",
+    "p_cat": "PLASTİK",
+    "p_img": "img/30.webp",
+    "p_desc": "MİCRO MİCRO YUVARLAK"
+  },
+  {
+    "p_name": "MİCRO YUVARLAK SİYAH",
+    "p_brand": "CLİPPER",
+    "p_cat": "PLASTİK",
+    "p_img": "img/31.webp",
+    "p_desc": "MİCRO MİCRO YUVARLAK SİYAH"
+  },
+  {
+    "p_name": "MİCRO YUVARLAK RENKLİ",
+    "p_brand": "CLİPPER",
+    "p_cat": "PLASTİK",
+    "p_img": "img/32.webp",
+    "p_desc": "MİCRO MİCRO YUVARLAK RENKLİ"
+  },
+  {
+    "p_name": "POCKET YUVARLAK",
+    "p_brand": "CLİPPER",
+    "p_cat": "PLASTİK",
+    "p_img": "img/33.webp",
+    "p_desc": "POCKET POCKET YUVARLAK",
+    "p_pop": true
+  },
+  {
+    "p_name": "TAŞLI ŞEFFAF",
+    "p_brand": "TOKAİ",
+    "p_cat": "PLASTİK",
+    "p_img": "img/34.webp",
+    "p_desc": "F4R TAŞLI ŞEFFAF"
+  },
+  {
+    "p_name": "MANYETOLU ŞEFFAF",
+    "p_brand": "TOKAİ",
+    "p_cat": "PLASTİK",
+    "p_img": "img/35.webp",
+    "p_desc": "P48L MANYETOLU ŞEFFAF"
+  },
+  {
+    "p_name": "133 ML BENZİN",
+    "p_brand": "CLİPPER",
+    "p_cat": "DİGER",
+    "p_img": "img/36.webp",
+    "p_desc": "133ML 133 ML BENZİN"
+  },
+  {
+    "p_name": "125 ML BENZİN",
+    "p_brand": "ZİPPO",
+    "p_cat": "DİGER",
+    "p_img": "img/37.webp",
+    "p_desc": "125ML 125 ML BENZİN"
+  },
+  {
+    "p_name": "127 ML BENZİN",
+    "p_brand": "GOLF",
+    "p_cat": "DİGER",
+    "p_img": "img/38.webp",
+    "p_desc": "127ML 127 ML BENZİN",
+    "p_pop": true
+  },
+  {
+    "p_name": "LÜX TAŞLI SARGILI KEDİ",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/39.webp",
+    "p_desc": "804 LÜX TAŞLI SARGILI KEDİ"
+  },
+  {
+    "p_name": "LÜX TAŞLI SARGILI  ÇİZGİLİ",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/40.webp",
+    "p_desc": "804 LÜX TAŞLI SARGILI  ÇİZGİLİ"
+  },
+  {
+    "p_name": "LÜX TAŞLI SARGILI  KARE",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/41.webp",
+    "p_desc": "804 LÜX TAŞLI SARGILI  KARE",
+    "p_pop": true
+  },
+  {
+    "p_name": "LÜX TAŞLI SARGILI KARE TAKIMLI",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/42.webp",
+    "p_desc": "804 LÜX TAŞLI SARGILI KARE TAKIMLI",
+    "p_pop": true
+  },
+  {
+    "p_name": "LÜX TAŞLI SARGILI  ..",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/43.webp",
+    "p_desc": "804 LÜX TAŞLI SARGILI  ..",
+    "p_pop": true
+  },
+  {
+    "p_name": "LÜX TAŞLI SARGILI TÜRK BAYRAGI",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/44.webp",
+    "p_desc": "804 LÜX TAŞLI SARGILI TÜRK BAYRAGI"
+  },
+  {
+    "p_name": "LÜX TAŞLI SARGILI GRADYAN  RENKLİ",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/45.webp",
+    "p_desc": "804 LÜX TAŞLI SARGILI GRADYAN  RENKLİ"
+  },
+  {
+    "p_name": "LÜX TAŞLI SARGILI  DESENLİ",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/46.webp",
+    "p_desc": "804 LÜX TAŞLI SARGILI  DESENLİ",
+    "p_pop": true
+  },
+  {
+    "p_name": "LÜX TAŞLI SARGILI İSTANBUL",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/47.webp",
+    "p_desc": "804 LÜX TAŞLI SARGILI İSTANBUL"
+  },
+  {
+    "p_name": "PÜRMÜZ BAŞLIK",
+    "p_brand": "ALASKA",
+    "p_cat": "DİGER",
+    "p_img": "img/48.webp",
+    "p_desc": "SDR-509C PÜRMÜZ BAŞLIK"
+  },
+  {
+    "p_name": "3 LÜ PÜRMÜZ BAŞLIK SETİ",
+    "p_brand": "PAR",
+    "p_cat": "DİGER",
+    "p_img": "img/49.webp",
+    "p_desc": "TORCH SET 3 LÜ PÜRMÜZ BAŞLIK SETİ"
+  },
+  {
+    "p_name": "PÜRMÜZ 6 RENK",
+    "p_brand": "STR",
+    "p_cat": "DİGER",
+    "p_img": "img/50.webp",
+    "p_desc": "DMR-525 PÜRMÜZ 6 RENK",
+    "p_pop": true
+  },
+  {
+    "p_name": "UZUN MUTFAK ÇAKMAGI",
+    "p_brand": "STR",
+    "p_cat": "DİGER",
+    "p_img": "img/51.webp",
+    "p_desc": "DMR-527 UZUN MUTFAK ÇAKMAGI"
+  },
+  {
+    "p_name": "UZUN JET METAL",
+    "p_brand": "BK-JET",
+    "p_cat": "METAL",
+    "p_img": "img/52.webp",
+    "p_desc": "1900 UZUN JET METAL"
+  },
+  {
+    "p_name": "UZUN JET METAL",
+    "p_brand": "BK-JET",
+    "p_cat": "METAL",
+    "p_img": "img/53.webp",
+    "p_desc": "1900 UZUN JET METAL"
+  },
+  {
+    "p_name": "UZUN JET METAL",
+    "p_brand": "BK-JET",
+    "p_cat": "METAL",
+    "p_img": "img/54.webp",
+    "p_desc": "1900 UZUN JET METAL"
+  },
+  {
+    "p_name": "KISA JET METAL",
+    "p_brand": "BK-JET",
+    "p_cat": "METAL",
+    "p_img": "img/55.webp",
+    "p_desc": "1800 KISA JET METAL"
+  },
+  {
+    "p_name": "KISA JET METAL",
+    "p_brand": "BK-JET",
+    "p_cat": "METAL",
+    "p_img": "img/56.webp",
+    "p_desc": "1800 KISA JET METAL"
+  },
+  {
+    "p_name": "KISA JET METAL",
+    "p_brand": "BK-JET",
+    "p_cat": "METAL",
+    "p_img": "img/57.webp",
+    "p_desc": "1800 KISA JET METAL"
+  },
+  {
+    "p_name": "JET METAL KURT BASKILI",
+    "p_brand": "STR",
+    "p_cat": "METAL",
+    "p_img": "img/58.webp",
+    "p_desc": "8001 JET METAL KURT BASKILI"
+  },
+  {
+    "p_name": "RÜZGAR METAL GRADYAN RENKLİ",
+    "p_brand": "MRY",
+    "p_cat": "METAL",
+    "p_img": "img/59.webp",
+    "p_desc": "M 2020 MTL RÜZGAR METAL GRADYAN RENKLİ"
+  },
+  {
+    "p_name": "RÜZGAR METAL PARLAK RENKLİ",
+    "p_brand": "MRY",
+    "p_cat": "METAL",
+    "p_img": "img/60.webp",
+    "p_desc": "M 2020 MTL RÜZGAR METAL PARLAK RENKLİ"
+  },
+  {
+    "p_name": "RÜZGAR METAL PASTEL RENKLİ",
+    "p_brand": "MRY",
+    "p_cat": "METAL",
+    "p_img": "img/61.webp",
+    "p_desc": "M 2020 MTL RÜZGAR METAL PASTEL RENKLİ"
+  },
+  {
+    "p_name": "RÜZGAR METAL PASTEL GRADYAN RENKLİ",
+    "p_brand": "MRY",
+    "p_cat": "METAL",
+    "p_img": "img/62.webp",
+    "p_desc": "M 2020 MTL RÜZGAR METAL PASTEL GRADYAN RENKLİ"
+  },
+  {
+    "p_name": "TAŞLI METAL PARLAK RENKLİ",
+    "p_brand": "STR",
+    "p_cat": "METAL",
+    "p_img": "img/63.webp",
+    "p_desc": "803 METAL TAŞLI METAL PARLAK RENKLİ"
+  },
+  {
+    "p_name": "TAŞLI METAL RENKLİ",
+    "p_brand": "STR",
+    "p_cat": "METAL",
+    "p_img": "img/64.webp",
+    "p_desc": "803 METAL TAŞLI METAL RENKLİ"
+  },
+  {
+    "p_name": "TAŞLI METAL PARLAK GRADYAN RENKLİ",
+    "p_brand": "STR",
+    "p_cat": "METAL",
+    "p_img": "img/65.webp",
+    "p_desc": "803 METAL TAŞLI METAL PARLAK GRADYAN RENKLİ"
+  },
+  {
+    "p_name": "TAŞLI METAL MAT GRADYAN RENKLİ",
+    "p_brand": "STR",
+    "p_cat": "METAL",
+    "p_img": "img/66.webp",
+    "p_desc": "803 METAL TAŞLI METAL MAT GRADYAN RENKLİ",
+    "p_pop": true
+  },
+  {
+    "p_name": "MANYETOLU METAL PARLAK RENKLİ",
+    "p_brand": "STR",
+    "p_cat": "METAL",
+    "p_img": "img/67.webp",
+    "p_desc": "808 METAL MANYETOLU METAL PARLAK RENKLİ"
+  },
+  {
+    "p_name": "MANYETOLU METAL PASTEL RENKLİ",
+    "p_brand": "STR",
+    "p_cat": "METAL",
+    "p_img": "img/68.webp",
+    "p_desc": "808 METAL MANYETOLU METAL PASTEL RENKLİ"
+  },
+  {
+    "p_name": "JET METAL MAT PASTEL GRADYAN RENKLİ",
+    "p_brand": "STR",
+    "p_cat": "METAL",
+    "p_img": "img/69.webp",
+    "p_desc": "805 METAL JET METAL MAT PASTEL GRADYAN RENKLİ"
+  },
+  {
+    "p_name": "JET METAL PARLAK GRADYAN RENKLİ",
+    "p_brand": "STR",
+    "p_cat": "METAL",
+    "p_img": "img/70.webp",
+    "p_desc": "805 METAL JET METAL PARLAK GRADYAN RENKLİ"
+  },
+  {
+    "p_name": "JET METAL MAT PASTEL RENKLİ",
+    "p_brand": "STR",
+    "p_cat": "METAL",
+    "p_img": "img/71.webp",
+    "p_desc": "805 METAL JET METAL MAT PASTEL RENKLİ"
+  },
+  {
+    "p_name": "JET METAL AÇIK PASTEL RENKLİ",
+    "p_brand": "STR",
+    "p_cat": "METAL",
+    "p_img": "img/72.webp",
+    "p_desc": "805 METAL JET METAL AÇIK PASTEL RENKLİ"
+  },
+  {
+    "p_name": "JET METAL RENKLİ",
+    "p_brand": "SİLVİO MONETTİ",
+    "p_cat": "METAL",
+    "p_img": "img/73.webp",
+    "p_desc": "SM-060 JET METAL RENKLİ"
+  },
+  {
+    "p_name": "JET METAL GRADYAN RENKLİ",
+    "p_brand": "SİLVİO MONETTİ",
+    "p_cat": "METAL",
+    "p_img": "img/74.webp",
+    "p_desc": "SM-060 JET METAL GRADYAN RENKLİ"
+  },
+  {
+    "p_name": "JET METAL PARLAK GRADYAN RENKLİ",
+    "p_brand": "SİLVİO MONETTİ",
+    "p_cat": "METAL",
+    "p_img": "img/75.webp",
+    "p_desc": "SM-060 JET METAL PARLAK GRADYAN RENKLİ"
+  },
+  {
+    "p_name": "JET METAL PARLAK RENKLİ",
+    "p_brand": "SİLVİO MONETTİ",
+    "p_cat": "METAL",
+    "p_img": "img/76.webp",
+    "p_desc": "SM-060 JET METAL PARLAK RENKLİ"
+  },
+  {
+    "p_name": "UZUN TAŞLI ŞEFFAF",
+    "p_brand": "COPPER",
+    "p_cat": "PLASTİK",
+    "p_img": "img/77.webp",
+    "p_desc": "CT-100 UZUN TAŞLI ŞEFFAF"
+  },
+  {
+    "p_name": "UZUN MANYETOLU SARGILI",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/78.webp",
+    "p_desc": "M 2023 UZUN MANYETOLU SARGILI"
+  },
+  {
+    "p_name": "ŞARJLI AUDİ ARABA MARKALI GOLD",
+    "p_brand": "DİGER",
+    "p_cat": "METAL",
+    "p_img": "img/79.webp",
+    "p_desc": "ANHTR ŞARJLI AUDİ ARABA MARKALI GOLD"
+  },
+  {
+    "p_name": "ŞARJLI AUDİ ARABA MARKALI  GÜMÜŞ",
+    "p_brand": "DİGER",
+    "p_cat": "METAL",
+    "p_img": "img/80.webp",
+    "p_desc": "ANHTR ŞARJLI AUDİ ARABA MARKALI  GÜMÜŞ"
+  },
+  {
+    "p_name": "ŞARJLI MERCEDES ARABA MARKALI PARLAK METAL",
+    "p_brand": "DİGER",
+    "p_cat": "METAL",
+    "p_img": "img/81.webp",
+    "p_desc": "ANHTR ŞARJLI MERCEDES ARABA MARKALI PARLAK METAL"
+  },
+  {
+    "p_name": "ŞARJLI MERCEDES ARABA MARKALI MAT METAL",
+    "p_brand": "DİGER",
+    "p_cat": "METAL",
+    "p_img": "img/82.webp",
+    "p_desc": "ANHTR ŞARJLI MERCEDES ARABA MARKALI MAT METAL"
+  },
+  {
+    "p_name": "ŞARJLI BMW ARABA MARKALI GOLD",
+    "p_brand": "DİGER",
+    "p_cat": "METAL",
+    "p_img": "img/83.webp",
+    "p_desc": "ANHTR ŞARJLI BMW ARABA MARKALI GOLD"
+  },
+  {
+    "p_name": "ŞARJLI BMW ARABA MARKALI MAVİ",
+    "p_brand": "DİGER",
+    "p_cat": "METAL",
+    "p_img": "img/84.webp",
+    "p_desc": "ANHTR ŞARJLI BMW ARABA MARKALI MAVİ"
+  },
+  {
+    "p_name": "LÜX TAŞLI METAL MAT RENKLİ",
+    "p_brand": "STR",
+    "p_cat": "METAL",
+    "p_img": "img/85.webp",
+    "p_desc": "804 MTL LÜX TAŞLI METAL MAT RENKLİ"
+  },
+  {
+    "p_name": "LÜX TAŞLI METAL PARLAK RENKLİ",
+    "p_brand": "STR",
+    "p_cat": "METAL",
+    "p_img": "img/86.webp",
+    "p_desc": "804 MTL LÜX TAŞLI METAL PARLAK RENKLİ"
+  },
+  {
+    "p_name": "LÜX TAŞLI METAL GRADYAN PASTEL RENKLİ",
+    "p_brand": "STR",
+    "p_cat": "METAL",
+    "p_img": "img/87.webp",
+    "p_desc": "804 MTL LÜX TAŞLI METAL GRADYAN PASTEL RENKLİ"
+  },
+  {
+    "p_name": "RÜZGAR SARGILI KULE DESENLİ",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/88.webp",
+    "p_desc": "M 2020 RÜZGAR SARGILI KULE DESENLİ"
+  },
+  {
+    "p_name": "RÜZGAR SARGILI ADRENALİN",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/89.webp",
+    "p_desc": "M 2020 RÜZGAR SARGILI ADRENALİN"
+  },
+  {
+    "p_name": "RÜZGAR SARGILI PEMBE",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/90.webp",
+    "p_desc": "M 2020 RÜZGAR SARGILI PEMBE"
+  },
+  {
+    "p_name": "RÜZGAR SARGILI KOYU DESENLİ",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/91.webp",
+    "p_desc": "M 2020 RÜZGAR SARGILI KOYU DESENLİ"
+  },
+  {
+    "p_name": "RÜZGAR SARGILI RENKLİ",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/92.webp",
+    "p_desc": "M 2020 RÜZGAR SARGILI RENKLİ"
+  },
+  {
+    "p_name": "RÜZGAR SARGILI FASHİON LİGHTER DESENLİ",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/93.webp",
+    "p_desc": "M 2020 RÜZGAR SARGILI FASHİON LİGHTER DESENLİ"
+  },
+  {
+    "p_name": "RÜZGAR SARGILI RENKLİ DESENLİ",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/94.webp",
+    "p_desc": "M 2020 RÜZGAR SARGILI RENKLİ DESENLİ"
+  },
+  {
+    "p_name": "RÜZGAR SARGILI ADANA DEMİR SPOR TEK AŞK DESENLİ",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/95.webp",
+    "p_desc": "M 2020 RÜZGAR SARGILI ADANA DEMİR SPOR TEK AŞK DESENLİ"
+  },
+  {
+    "p_name": "UZUN MANYETOLU SARGILI",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/96.webp",
+    "p_desc": "M 2023 UZUN MANYETOLU SARGILI"
+  },
+  {
+    "p_name": "UZUN MANYETOLU SARGILI FASHION DESENLİ",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/97.webp",
+    "p_desc": "M 2023 UZUN MANYETOLU SARGILI FASHION DESENLİ"
+  },
+  {
+    "p_name": "RÜZGAR METAL TÜRK BAYRAGI",
+    "p_brand": "MRY",
+    "p_cat": "METAL",
+    "p_img": "img/98.webp",
+    "p_desc": "M 2020 MTL RÜZGAR METAL TÜRK BAYRAGI"
+  },
+  {
+    "p_name": "RÜZGAR METAL PARLAK RENKLİ",
+    "p_brand": "MRY",
+    "p_cat": "METAL",
+    "p_img": "img/99.webp",
+    "p_desc": "M 2020 MTL RÜZGAR METAL PARLAK RENKLİ"
+  },
+  {
+    "p_name": "UZUN MANYETOLU SARGILI FAST DESENLİ",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/100.webp",
+    "p_desc": "M 2023 UZUN MANYETOLU SARGILI FAST DESENLİ"
+  },
+  {
+    "p_name": "RÜZGAR SARGILI TEK RENK",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/101.webp",
+    "p_desc": "M 2020 RÜZGAR SARGILI TEK RENK"
+  },
+  {
+    "p_name": "TORCH METAL MAT RENKLİ",
+    "p_brand": "STR",
+    "p_cat": "METAL",
+    "p_img": "img/102.webp",
+    "p_desc": "TRCH 2025 TORCH METAL MAT RENKLİ"
+  },
+  {
+    "p_name": "TORCH METAL PARLAK RENKLİ",
+    "p_brand": "STR",
+    "p_cat": "METAL",
+    "p_img": "img/103.webp",
+    "p_desc": "TRCH 2025 TORCH METAL PARLAK RENKLİ"
+  },
+  {
+    "p_name": "TORCH METAL PARLAK GRADYAN RENKLİ",
+    "p_brand": "STR",
+    "p_cat": "METAL",
+    "p_img": "img/104.webp",
+    "p_desc": "TRCH 2025 TORCH METAL PARLAK GRADYAN RENKLİ"
+  },
+  {
+    "p_name": "TORCH METAL MAT GRADYAN RENKLİ",
+    "p_brand": "STR",
+    "p_cat": "METAL",
+    "p_img": "img/105.webp",
+    "p_desc": "TRCH 2025 TORCH METAL MAT GRADYAN RENKLİ",
+    "p_pop": true
+  },
+  {
+    "p_name": "TORCH METAL GOLD DESENLİ",
+    "p_brand": "STR",
+    "p_cat": "METAL",
+    "p_img": "img/106.webp",
+    "p_desc": "TRCH 2025 TORCH METAL GOLD DESENLİ"
+  },
+  {
+    "p_name": "TORCH METAL TÜRK BAYRAKLI",
+    "p_brand": "STR",
+    "p_cat": "METAL",
+    "p_img": "img/107.webp",
+    "p_desc": "TRCH 2025 TORCH METAL TÜRK BAYRAKLI"
+  },
+  {
+    "p_name": "TORCH METAL SİYAH",
+    "p_brand": "STR",
+    "p_cat": "METAL",
+    "p_img": "img/108.webp",
+    "p_desc": "TRCH 2025 TORCH METAL SİYAH"
+  },
+  {
+    "p_name": "JET SARGILI YEŞİLÇAM KARAKTERLERİ",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/109.webp",
+    "p_desc": "806 JET SARGILI YEŞİLÇAM KARAKTERLERİ"
+  },
+  {
+    "p_name": "JET SARGILI YILMAZ GÜNEY",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/110.webp",
+    "p_desc": "806 JET SARGILI YILMAZ GÜNEY"
+  },
+  {
+    "p_name": "JET SARGILI GÖZ DESENLİ",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/111.webp",
+    "p_desc": "806 JET SARGILI GÖZ DESENLİ"
+  },
+  {
+    "p_name": "JET SARGILI DESENLİ",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/112.webp",
+    "p_desc": "806 JET SARGILI DESENLİ"
+  },
+  {
+    "p_name": "JET SARGILI ATATÜRK",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/113.webp",
+    "p_desc": "806 JET SARGILI ATATÜRK"
+  },
+  {
+    "p_name": "JET SARGILI  HAVALI SÖZLER",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/114.webp",
+    "p_desc": "806 JET SARGILI  HAVALI SÖZLER"
+  },
+  {
+    "p_name": "JET SARGILI  ESKİ ARABA DESENLİ",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/115.webp",
+    "p_desc": "806 JET SARGILI  ESKİ ARABA DESENLİ"
+  },
+  {
+    "p_name": "JET MAT 5 RENK",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/116.webp",
+    "p_desc": "806 JET MAT 5 RENK"
+  },
+  {
+    "p_name": "TAŞLI MAT 5 RENK",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/117.webp",
+    "p_desc": "803 TAŞLI MAT 5 RENK"
+  },
+  {
+    "p_name": "MANYETOLU MAT 5 RENK",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/118.webp",
+    "p_desc": "808 MANYETOLU MAT 5 RENK"
+  },
+  {
+    "p_name": "JET SARGILI LÜX ARABA",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/119.webp",
+    "p_desc": "806 JET SARGILI LÜX ARABA"
+  },
+  {
+    "p_name": "JET SARGILI KIRMIZI AY YILDIZLI",
+    "p_brand": "STR",
+    "p_cat": "PLASTİK",
+    "p_img": "img/120.webp",
+    "p_desc": "806 JET SARGILI KIRMIZI AY YILDIZLI"
+  },
+  {
+    "p_name": "YASSI JET BASKILI",
+    "p_brand": "STR",
+    "p_cat": "METAL",
+    "p_img": "img/121.webp",
+    "p_desc": "F303 YASSI JET BASKILI"
+  },
+  {
+    "p_name": "LÜX TAŞLI METAL MAT GRADYAN RENKLİ",
+    "p_brand": "STR",
+    "p_cat": "METAL",
+    "p_img": "img/122.webp",
+    "p_desc": "804 LÜX TAŞLI METAL MAT GRADYAN RENKLİ",
+    "p_pop": true
+  },
+  {
+    "p_name": "LÜX TAŞLI METAL PARLAK RENKLİ",
+    "p_brand": "STR",
+    "p_cat": "METAL",
+    "p_img": "img/123.webp",
+    "p_desc": "804 LÜX TAŞLI METAL PARLAK RENKLİ"
+  },
+  {
+    "p_name": "UZUN MANYETOLU  ŞEFFAF",
+    "p_brand": "COPPER",
+    "p_cat": "PLASTİK",
+    "p_img": "img/124.webp",
+    "p_desc": "CM-200 UZUN MANYETOLU  ŞEFFAF"
+  },
+  {
+    "p_name": "ÇAKMAK BENZİNİ",
+    "p_brand": "ZİPPO",
+    "p_cat": "DİGER",
+    "p_img": "img/125.webp",
+    "p_desc": "125ML ÇAKMAK BENZİNİ"
+  },
+  {
+    "p_name": "JET PASTEL 5 RENK",
+    "p_brand": "BK-JET",
+    "p_cat": "PLASTİK",
+    "p_img": "img/126.webp",
+    "p_desc": "1900 JET PASTEL 5 RENK"
+  },
+  {
+    "p_name": "KISA JET PASTEL 5 RENK",
+    "p_brand": "BK-JET",
+    "p_cat": "PLASTİK",
+    "p_img": "img/127.webp",
+    "p_desc": "1975 KISA JET PASTEL 5 RENK"
+  },
+  {
+    "p_name": "KISA JET BUZLU 5 RENK",
+    "p_brand": "BK-JET",
+    "p_cat": "PLASTİK",
+    "p_img": "img/128.webp",
+    "p_desc": "1975 KISA JET BUZLU 5 RENK"
+  },
+  {
+    "p_name": "KISA  JET METAL  PARLAK GRADYAN RENKLİ",
+    "p_brand": "BK-JET",
+    "p_cat": "METAL",
+    "p_img": "img/129.webp",
+    "p_desc": "1800 KISA  JET METAL  PARLAK GRADYAN RENKLİ"
+  },
+  {
+    "p_name": "KISA JET METAL MAT RENKLİ",
+    "p_brand": "BK-JET",
+    "p_cat": "METAL",
+    "p_img": "img/130.webp",
+    "p_desc": "1800 KISA JET METAL MAT RENKLİ"
+  },
+  {
+    "p_name": "UZUN JET METAL GRADYAN PARLAK RENKLİ",
+    "p_brand": "BK-JET",
+    "p_cat": "METAL",
+    "p_img": "img/131.webp",
+    "p_desc": "1900 UZUN JET METAL GRADYAN PARLAK RENKLİ"
+  },
+  {
+    "p_name": "KABARTMALI ÇAKMAK",
+    "p_brand": "ZİPPO",
+    "p_cat": "METAL",
+    "p_img": "img/132.webp",
+    "p_desc": "ZİPPO KABARTMALI ÇAKMAK"
+  },
+  {
+    "p_name": "KABARTMALI ÇAKMAK SİLAH",
+    "p_brand": "ZİPPO",
+    "p_cat": "METAL",
+    "p_img": "img/133.webp",
+    "p_desc": "ZİPPO KABARTMALI ÇAKMAK SİLAH"
+  },
+  {
+    "p_name": "KABARTMALI ÇAKMAK YILAN",
+    "p_brand": "ZİPPO",
+    "p_cat": "METAL",
+    "p_img": "img/134.webp",
+    "p_desc": "ZİPPO KABARTMALI ÇAKMAK YILAN"
+  },
+  {
+    "p_name": "ZİPPO ÇAKMAK BENZİNİ",
+    "p_brand": "ALASKA",
+    "p_cat": "DİGER",
+    "p_img": "img/135.webp",
+    "p_desc": "ALASKA ZİPPO ÇAKMAK BENZİNİ"
+  },
+  {
+    "p_name": "RÜZGAR SARGILI ÇİZGİ FİLM KARAKTERİ",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/136.webp",
+    "p_desc": "M 2020 RÜZGAR SARGILI ÇİZGİ FİLM KARAKTERİ"
+  },
+  {
+    "p_name": "RÜZGAR SARGILI KURT DESENLİ",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/137.webp",
+    "p_desc": "M 2020 RÜZGAR SARGILI KURT DESENLİ"
+  },
+  {
+    "p_name": "RÜZGAR SARGILI TÜRKİYE DESENLİ",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/138.webp",
+    "p_desc": "M 2020 RÜZGAR SARGILI TÜRKİYE DESENLİ"
+  },
+  {
+    "p_name": "RÜZGAR SARGILI JOKER DESENLİ",
+    "p_brand": "MRY",
+    "p_cat": "PLASTİK",
+    "p_img": "img/139.webp",
+    "p_desc": "M 2020 RÜZGAR SARGILI JOKER DESENLİ"
+  },
+  {
+    "p_name": "JET METAL MAT RENKLİ",
+    "p_brand": "MRY",
+    "p_cat": "METAL",
+    "p_img": "img/140.webp",
+    "p_desc": "M2020 MTL JET METAL MAT RENKLİ"
+  },
+  {
+    "p_name": "JET METAL PARLAK RENKLİ",
+    "p_brand": "MRY",
+    "p_cat": "METAL",
+    "p_img": "img/141.webp",
+    "p_desc": "M2020 MTL JET METAL PARLAK RENKLİ"
+  },
+  {
+    "p_name": "JET METAL PARLAK GRADYAN RENKLİ",
+    "p_brand": "MRY",
+    "p_cat": "METAL",
+    "p_img": "img/142.webp",
+    "p_desc": "M2020 MTL JET METAL PARLAK GRADYAN RENKLİ"
+  },
+  {
+    "p_name": "TORCH METAL PASTEL GRADYAN RENKLİ",
+    "p_brand": "STR",
+    "p_cat": "METAL",
+    "p_img": "img/143.webp",
+    "p_desc": "YF88 TORCH METAL PASTEL GRADYAN RENKLİ"
+  },
+  {
+    "p_name": "TORCH METAL PARLAK GRADYAN RENKLİ",
+    "p_brand": "STR",
+    "p_cat": "METAL",
+    "p_img": "img/144.webp",
+    "p_desc": "YF88 TORCH METAL PARLAK GRADYAN RENKLİ"
+  },
+  {
+    "p_name": "SLİM YUVARLAK TAŞLI",
+    "p_brand": "KASAİ",
+    "p_cat": "PLASTİK",
+    "p_img": "img/145.webp",
+    "p_desc": "SLİM SLİM YUVARLAK TAŞLI"
+  },
+  {
+    "p_name": "TAŞLI SARGILI HAVALI SÖZLER",
+    "p_brand": "KASAİ",
+    "p_cat": "PLASTİK",
+    "p_img": "img/146.webp",
+    "p_desc": "F4010 TAŞLI SARGILI HAVALI SÖZLER"
+  },
+  {
+    "p_name": "TAŞLI SARGILI HAVALI SÖZLER FİLM VE ŞARKICI",
+    "p_brand": "KASAİ",
+    "p_cat": "PLASTİK",
+    "p_img": "img/147.webp",
+    "p_desc": "F4010 TAŞLI SARGILI HAVALI SÖZLER FİLM VE ŞARKICI"
+  },
+  {
+    "p_name": "TAŞLI SARGIILI HAYVAN DESENLİ",
+    "p_brand": "KASAİ",
+    "p_cat": "PLASTİK",
+    "p_img": "img/148.webp",
+    "p_desc": "F4010 TAŞLI SARGIILI HAYVAN DESENLİ",
+    "p_pop": true
+  },
+  {
+    "p_name": "TAŞLI SARGILI ŞEFFAF",
+    "p_brand": "KASAİ",
+    "p_cat": "PLASTİK",
+    "p_img": "img/149.webp",
+    "p_desc": "F4010 TAŞLI SARGILI ŞEFFAF",
+    "p_pop": true
+  },
+  {
+    "p_name": "UZUN METAL",
+    "p_brand": "BK-JET",
+    "p_cat": "METAL",
+    "p_img": "img/150.webp",
+    "p_desc": "1900 UZUN METAL",
+    "p_pop": true
+  }
+]
+}

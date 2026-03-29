@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <base href="/">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Yönetim Paneli</title>
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+<style>
+  /* Admin panelindeki resimlerin boyutunu sınırlama */
+  img[class*="ControlPane"] {
+    max-width: 50px !important;
+    height: auto !important;
+    border-radius: 8px;
+  }
+  .nc-entryEditor-controlPane img {
+    max-width: 50px !important;
+    max-height: 50px !important;
+    object-fit: contain !important;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+</style>
+
+</head>
+<body>
+  <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
+  
+  <script>
+    CMS.registerEventListener({
+  name: 'preSave',
+  handler: ({ entry }) => {
+    // Admin panelindeki tüm veriyi al
+    const data = entry.get('data').toJS();
+    
+    // Eğer ürün listesi varsa içindeki resim yollarını tara
+    if (data.products) {
+      data.products = data.products.map(product => {
+        if (product.p_img && !product.p_img.startsWith('img/')) {
+          // Başına img/ ekle ve varsa öndeki slash'ı sil
+          product.p_img = 'img/' + product.p_img.replace(/^\//, '');
+        }
+        return product;
+      });
+    }
+    
+    // Düzenlenmiş veriyi geri gönder (JSON'a böyle kaydedilecek)
+    return entry.get('data').merge(data);
+  },
+});
+
+    // Giriş yapıldıktan sonra admin paneline yönlendirme sağlayan küçük script
+    if (window.netlifyIdentity) {
+      window.netlifyIdentity.on("init", user => {
+        if (!user) {
+          window.netlifyIdentity.on("login", () => {
+            document.location.href = "/admin/";
+          });
+        }
+      });
+    }
+  </script>
+</body>
+</html>

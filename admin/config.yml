@@ -1,0 +1,43 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "img"
+public_folder: "img"
+
+# KRİTİK AYAR: Bu satırı ekle! 
+# Bu ayar başına otomatik "/" gelmesini engeller ve klasör ismini zorunlu kılar.
+media_folder_relative: false
+
+
+collections:
+  - name: "setup"
+    label: "Ürün Yönetimi"
+    delete: false
+    files:
+      - name: "all_products"
+        label: "Tüm Ürünler"
+        file: "data/product.json"
+        fields:
+          - label: "Ürün Listesi"
+            name: "products"
+            widget: "list"
+            # KRİTİK AYAR: "Add" butonuna basınca yeni ürün kutusu listenin EN ÜSTÜNDE açılır.
+            add_to_top: true 
+            required: false
+            fields:
+              - { label: "Ürün Adı", name: "p_name", widget: "string", required: false }
+              - { label: "Açıklama", name: "p_desc", widget: "text", required: false }
+              - { label: "Kategori"
+                name: "p_cat"
+                widget: "select"
+                options: ["PLASTİK", "PROMOSYON", "METAL", "DİĞER"]
+                required: false }
+              - label: "Marka"
+                # YENİ: 'string' yerine 'select' yaparak "clipper" mı "CLIPPER" mı derdini bitiriyoruz.
+                widget: "select"
+                options: ["CLIPPER", "STR", "TOKAI", "MRY", "KASAI", "ALASKA", "FER", "DİĞER"]
+                required: false
+              - { label: "Görsel (Dosya)", name: "p_img", widget: "image", choose_url: false }
+              - { label: "Görsel (URL)", name: "p_url", widget: "string", required: false }
+              - { label: "Popüler mi?", name: "p_pop", widget: "boolean", default: false }

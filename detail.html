@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ürün Detayı | Kırgıl Çakmak</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+    <div id="contact-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal" onclick="closeContact()">&times;</span>
+            <h2>Kırgıl Çakmak İletişim</h2>
+            <div class="contact-info">
+                <p><strong>Telefon:</strong> 0505 069 6639</p>
+                <p><strong>E-posta:</strong> bakirkirgil@gmail.com</p>
+                <p><strong>Adres:</strong> Yusupaşa Mh. 886. sk. Özdiker Avrupa Pasajı Giriş Kat No: 3 Eyyübiye ŞANLIURFA</p>
+                <hr>
+                <a href="https://wa.me/905050696639" class="whatsapp-link" target="_blank">WhatsApp Destek Hattı</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="header-wrapper">
+        <header class="header-grid">
+            <div class="logo-area">
+                <a href="index.html" class="hidden-home-link" title="Ana Sayfa"></a>
+            </div>
+
+            <div class="search-box">
+                <input type="text" id="search" placeholder="Model veya marka ara...">
+                <button id="search-btn" onclick="performSearchFromDetail()">🔍</button>
+            </div>
+
+            <div class="contact-area">
+                <button class="contact-btn" onclick="openContact()">İletişim</button>
+            </div>
+        </header>
+
+        <nav class="main-nav-container">
+            <div class="nav-8-12">
+                <div class="nav-item" onmouseenter="showBrands('Plastik Çakmak')" onclick="filterByCategory('Plastik Çakmak')">
+                    Plastik Çakmak <span class="nav-arrow"> ᐯ</span>
+                    <div class="brand-dropdown" id="brands-Plastik"></div>
+                </div>
+                <div class="nav-item" onmouseenter="showBrands('Promosyon Çakmak')" onclick="filterByCategory('Promosyon Çakmak')">
+                    Promosyon Çakmak <span class="nav-arrow"> ᐯ</span>
+                    <div class="brand-dropdown" id="brands-Promosyon"></div>
+                </div>
+                <div class="nav-item" onmouseenter="showBrands('Metal Çakmak')" onclick="filterByCategory('Metal Çakmak')">
+                    Metal Çakmak <span class="nav-arrow"> ᐯ</span>
+                    <div class="brand-dropdown" id="brands-Metal"></div>
+                </div>
+                <div class="nav-item" onmouseenter="showBrands('Diğer Modeller')" onclick="filterByCategory('Diğer Modeller')">
+                    Diğer Modeller <span class="nav-arrow"> ᐯ</span>
+                    <div class="brand-dropdown" id="brands-Diger"></div>
+                </div>
+            </div>
+        </nav>
+    </div>
+    <main class="product-detail-container">
+        <div class="detail-left">
+            <img id="detail-img" src="" alt="Ürün Görseli" onerror="this.src='img/logo.png'">
+        </div>
+        <div class="detail-right">
+            <h1 id="detail-title">Yükleniyor...</h1>
+            <p id="detail-brand" class="detail-brand-label"></p>
+            <div class="detail-desc-box">
+                <h3>Ürün Açıklaması</h3>
+                <p id="detail-desc"></p>
+            </div>
+            <a id="whatsapp-btn" href="" target="_blank" class="whatsapp-detail-btn">WhatsApp ile Bilgi Al</a>
+        </div>
+    </main>
+
+    <script src="js/product.js"></script>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const params = new URLSearchParams(window.location.search);
+            const productName = params.get("name");
+            if (productName) {
+                // Not: product.js içinde loadProductDetail fonksiyonu olduğundan emin ol
+                loadProductDetail(productName);
+            }
+        });
+
+        // Detay sayfasından arama yapıldığında index.html'e yönlendirir
+        function performSearchFromDetail() {
+            const term = document.getElementById("search").value;
+            if(term) window.location.href = `index.html?search=${encodeURIComponent(term)}`;
+        }
+        
+        // Input içindeyken Enter'a basınca aramayı tetikleme
+        document.getElementById("search").addEventListener("keypress", (e) => {
+            if (e.key === 'Enter') performSearchFromDetail();
+        });
+    </script>
+</body>
+</html>

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <link rel="icon" type="image/png" href="img/favicon.png">
+
+<link rel="apple-touch-icon" href="img/favicon.png">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Kırgıl Çakmak | Toptan Çakmak, Metal ve Promosyon Modelleri</title>
+<meta name="description" content="Kırgıl Çakmak: Türkiye'nin toptan çakmak merkezi. Metal, promosyon, plastik ve mutfak çakmaklarında en uygun fiyatlar ve zengin katalog. Şanlıurfa'dan tüm Türkiye'ye gönderim.">
+<meta name="keywords" content="toptan çakmak, metal çakmak, promosyon çakmak, plastik çakmak, kişiye özel çakmak, Şanlıurfa çakmak toptancıları, Kırgıl çakmak modelleri">  
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+</head>
+<body>
+
+    <div id="contact-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal" onclick="closeContact()">&times;</span>
+            <h2>Kırgıl Çakmak İletişim</h2>
+            <div class="contact-info">
+                <p><strong>Telefon:</strong> 0505 069 6639</p>
+                <p><strong>E-posta:</strong> bakirkirgil@gmail.com</p>
+                <p><strong>Adres:</strong> Yusufpaşa Mh. 886. sk. Özdiker Avrupa Pasajı Giriş Kat No: 3 Eyyübiye ŞANLIURFA</p>
+                <hr>
+                <a href="https://wa.me/905050696639" class="whatsapp-link" target="_blank">WhatsApp Destek Hattı</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="header-wrapper">
+      <header class="header-grid">
+    <div class="logo-area">
+        <a href="index.html" class="hidden-home-link" title="Ana Sayfa"></a>
+    </div>
+
+    <div class="search-box">
+        <input type="text" id="search" placeholder="Model veya marka ara...">
+        <button id="search-btn">🔍</button>
+    </div>
+
+    <div class="contact-area">
+        <button class="contact-btn" onclick="openContact()">İletişim</button>
+    </div>
+</header>
+
+        <nav class="main-nav-container">
+            <div class="nav-8-12">
+                <div class="nav-item" onmouseenter="showBrands('Plastik Çakmak')" onclick="filterByCategory('Plastik Çakmak')">
+                    Plastik Çakmak <span class="nav-arrow"> </span>
+                    <div class="brand-dropdown" id="brands-Plastik"></div>
+                </div>
+                <div class="nav-item" onmouseenter="showBrands('Promosyon Çakmak')" onclick="filterByCategory('Promosyon Çakmak')">
+                    Promosyon Çakmak <span class="nav-arrow"> </span>
+                    <div class="brand-dropdown" id="brands-Promosyon"></div>
+                </div>
+                <div class="nav-item" onmouseenter="showBrands('Metal Çakmak')" onclick="filterByCategory('Metal Çakmak')">
+                    Metal Çakmak <span class="nav-arrow"> </span>
+                    <div class="brand-dropdown" id="brands-Metal"></div>
+                </div>
+                <div class="nav-item" onmouseenter="showBrands('Diğer Modeller')" onclick="filterByCategory('Diğer Modeller')">
+                    Diğer Modeller <span class="nav-arrow"> </span>
+                    <div class="brand-dropdown" id="brands-Diger"></div>
+                </div>
+            </div>
+        </nav>
+    </div>
+
+    <main>
+        <section class="popular-section" id="popular-hero-area">
+            <div id="popular-layout" class="hero-grid"></div>
+        </section>
+        <section id="product-list-area" class="product-list-section" style="display: none;">
+    <h2 id="search-title" class="section-title">Arama Sonuçları</h2>
+    <div id="product-list-container" class="product-grid">
+        </div>
+    <div style="text-align: center; margin-top: 20px;">
+        <button onclick="clearSearch()" class="contact-btn">Geri Dön / Filtreyi Kaldır</button>
+    </div>
+</section>
+
+        <section class="cat-images-section">
+            <div class="cat-image-grid">
+                <div class="cat-card" onclick="filterByCategory('Plastik Çakmak')">
+                    <img src="img/plastik.webp" alt="Plastik" loading="lazy">
+                    <div class="cat-label">Plastik Çakmak</div>
+                </div>
+                <div class="cat-card" onclick="filterByCategory('Promosyon Çakmak')">
+                    <img src="img/promosyon.webp" alt="Promosyon" loading="lazy">
+                    <div class="cat-label">Promosyon Çakmak</div>
+                </div>
+                <div class="cat-card" onclick="filterByCategory('Metal Çakmak')">
+                    <img src="img/metal.webp" alt="Metal" loading="lazy">
+                    <div class="cat-label">Metal Çakmak</div>
+                </div>
+                <div class="cat-card" onclick="filterByCategory('Diğer Modeller')">
+                    <img src="img/diger.webp" alt="Diğer Modeller" loading="lazy">
+                    <div class="cat-label">Diğer Modeller</div>
+                </div>
+            </div>
+        </section>
+
+        <section class="ticker-section">
+            <div class="ticker-wrapper right" id="ticker-right"></div>
+            <div class="ticker-wrapper left" id="ticker-left"></div>
+        </section>
+
+        <section class="most-liked-section">
+            <h2 class="section-title-liked">En Beğenilen Ürünlerimiz</h2>
+            <div id="most-liked-products" class="most-liked-grid"></div>
+        </section>
+
+        <section class="ticker-section brand-ticker-area">
+            <h3 style="text-align: center; color: #444; margin-bottom: 20px;">Çalıştığımız Markalar</h3>
+            <div class="ticker-wrapper left" id="brand-logos-ticker"></div>
+        </section>
+    </main>
+
+    <footer class="main-footer">
+        <div class="footer-content">
+            <div class="footer-info">
+                <p><strong>Adres:</strong> Yusufpaşa Mh. 886. sk. Özdiker Avrupa Pasajı Giriş Kat No: 3 Eyyübiye / ŞANLIURFA</p>
+                <p><strong>Telefon:</strong> 0505 069 6639 | <strong>E-posta:</strong> bakirkirgil@gmail.com</p>
+                <p>© 2026 Tüm Hakları Saklıdır.</p>
+            </div>
+        </div>
+        <div class="developer-credit">
+            <p>Tasarım ve Yazılım: <strong>Alp Yazılım - Mahmut Aydınalp</strong></p>
+            <div class="dev-contact">
+                <a href="mailto:aydinalpm288@gmail.com" class="dev-link">E-posta: aydinalpm288@gmail.com</a> | 
+                <a href="tel:+905426801363" class="dev-link">İletişim: 0542 680 1363</a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/product.js"></script>
+</body>
+</html>
