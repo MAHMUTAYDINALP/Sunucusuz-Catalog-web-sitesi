@@ -2,13 +2,17 @@
 
 Bu repo, gerçek bir müşteri talebi doğrultusunda **"Sıfır Sunucu Maliyeti (Zero-Cost Hosting)"** ve **"Maksimum Dönüşüm (Conversion)"** prensipleriyle tasarlanmış B2B (İşletmeden İşletmeye) ürün sergileme platformunun **Frontend (Arayüz) Vitrinidir**.
 
-> 🌐 **[Canlı Çalışan Sistemi Görmek İçin Tıklayın](https://kirgilcakmak.com.tr/)**
+> 🌐 **[Canlı Çalışan Sistemi Görmek İçin Tıklayın](https://kirgilcakmak.com.tr/)**    ##kirgilcakmak.com.tr
 > 
 > 🎬 **[Proje Tanıtım ve Demo Videosunu İzle](#![katalogsitetantm-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ac2ae9c8-83fe-43ad-bf08-25043a0c211e))**
 > 
 > ⚠️ **Fikri Mülkiyet Notu:** Ticari gizlilik sebebiyle, Netlify CMS konfigürasyonları ve Backend bağlantı kodları bu repoya dahil edilmemiştir. Bu depo yalnızca akışkan (fluid) UI/UX mimarisini ve HTML/CSS/JS yeteneklerini sergilemek amacıyla paylaşılmıştır.
 
-NOT:SİSTEMİN ÇALIŞAN VE EN BAŞINDAN BERİ ÜZERİNDE  ÇALIŞILAN GİTHUB REPOSU VE GİTHUB PAGES SAYFASI GİTHUB SAYFAMDA( https://github.com/MAHMUTAYDINALP/demo-site )  MEVCUTTUR.
+---
+
+NOT:
+
+SİSTEMİN ÇALIŞAN VE EN BAŞINDAN BERİ ÜZERİNDE  ÇALIŞILAN GİTHUB REPOSU VE GİTHUB PAGES SAYFASI GİTHUB SAYFAMDA( https://github.com/MAHMUTAYDINALP/demo-site )  MEVCUTTUR.
 ---
 
 ## 💼 Gerçek Dünya Çözümü (Business Case)
