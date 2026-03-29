@@ -13,7 +13,6 @@ Bu repo, gerçek bir müşteri talebi doğrultusunda **"Sıfır Sunucu Maliyeti 
 ---
 
 ## NOT:
-
 SİSTEMİN ÇALIŞAN VE EN BAŞINDAN BERİ ÜZERİNDE  ÇALIŞILAN GİTHUB REPOSU VE GİTHUB PAGES SAYFASI GİTHUB SAYFAMDA( https://github.com/MAHMUTAYDINALP/demo-site )  MEVCUTTUR.
 ---
 
